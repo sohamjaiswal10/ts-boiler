@@ -1,0 +1,17 @@
+{
+  "scripts": {
+    "start": "ts-node src/index.ts"
+  },
+  "dependencies": {},
+  "name": "node16-ts-boiler",
+  "version": "1.0.0",
+  "description": "a boiler for node 16 ts projects",
+  "main": "src/index.ts",
+  "author": "Soham Jaiswal <sohamjaiswal10@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@tsconfig/node16": "^1.0.2",
+    "ts-node": "^10.7.0",
+    "typescript": "^4.6.3"
+  }
+}
